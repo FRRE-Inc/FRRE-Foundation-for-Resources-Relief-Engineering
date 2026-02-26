@@ -287,7 +287,7 @@ Foundation for Resource & Relief Engineering (FRRE) is a public resource enginee
 <footer>
 <p><strong>FRRE – Foundation for Resource & Relief Engineering</strong></p>
 <p>Infrastructure First. Humanity Always.</p>
-<p>Email: info@frre.org | Phone: +00 0000 000000</p>
+<p>Email: info@frre.org | Phone: +91 9332923800</p>
 <p>© 2026 FRRE. All Rights Reserved.</p>
 </footer>
 
